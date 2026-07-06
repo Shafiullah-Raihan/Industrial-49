@@ -101,15 +101,7 @@ python main.py
 
 ---
 
-## 📸 Screenshots
 
-Add your project screenshots here.
-
-```markdown
-![Dashboard](assets/dashboard.png)
-```
-
----
 
 ## 🔌 Hardware Components
 
@@ -199,6 +191,6 @@ If you like this project:
 
 For collaboration or project discussions:
 
-📧 Email: your-email@example.com
+📧 Email: your-shafiullahraihan5@example.com
 
 🌐 GitHub: https://github.com/Shafiullah-Raihan
